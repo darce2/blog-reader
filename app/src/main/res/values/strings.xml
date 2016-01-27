@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blog Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Type yo stuff here brah</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="app_bar_string">app_bar_string</string>
+    <string name="action_search">search</string>
+</resources>
